@@ -70,22 +70,6 @@ OpenAI • LangChain • LangGraph • RAG • Vector DBs
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akthakur04&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akthakur04" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akthakur04&layout=compact" />
-</p>
-
----
-
 ## 📈 Experience Snapshot
 
 - 🧑‍💻 **Senior Software Engineer** @ YodaPlus  
