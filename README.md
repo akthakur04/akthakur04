@@ -9,6 +9,11 @@
 
 ## 🚀 About Me
 
+
+<img align="center" alt="GIF" src="https://i.pinimg.com/1200x/29/f2/0d/29f20d64de9f972827d5bfe8baf3ae6f.jpg" />
+<br/>
+<br/>
+
 I’m a **Senior Full Stack Software Engineer** with 4+ years of experience building scalable applications across **Web2, Web3, and AI**.
 
 - 🔭 Currently building products at **ThakurTech**
