@@ -1,73 +1,111 @@
-### Hi there 👋 I am Akshay
+<h1 align="center">Hey 👋, I'm Akshay Thakur</h1>
+<h3 align="center">Senior Full Stack Engineer | Web3 | AI | Building Scalable Products</h3>
 
-<h2 align="center">Just a Introduction
-</h2>
-
-Hi, I'm Akshay Thakur,A Full Stack Software Developer 🚀 currently living in Thane, India. I am passionate about technology and want to learn & explore new technologies I love travelling and explore the new places
-
-</br>
-</hr>
-<h2 align="center">Talking about Personal Stuffs</h2>
-<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-</br>
-
-<div align="center">
-<p align="center">Let's connect!</p>
-
-<!--
-<a href="https://www.instagram.com/vaibhavdarwekar/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a> -->
-  <a href="mailto:akshay11042000@gmail.com">
- <img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
-  </a>
-
-<a href="https://www.linkedin.com/in/akthakur04/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<!--
-
-<!--
-<a href="https://www.facebook.com/vaibhav.darwekar.50">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
- -->
-</div>
-
-<h1></h1>
 <p align="center">
-  <h2 align="center">Technology Stack  <img src="https://github.com/Vaman93/Vaman93/blob/main/image/laptop.gif" width="50"></h2>
-<div align="center">
-   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828">
-   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-  </br>
-    </br>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  
-</div>
+  Mumbai, India • 4+ Years Experience • Shipping Real Products 🚀
 </p>
 
-<h3>Status</h3>
+---
 
-<h5>Contribution graph</h5>
+## 🚀 About Me
 
-[![Akshay's github activity graph](https://activity-graph.herokuapp.com/graph?username=akthakur04&theme=react-dark)](https://github.com/akthakur04/github-readme-activity-graph)
+I’m a **Senior Full Stack Software Engineer** with 4+ years of experience building scalable applications across **Web2, Web3, and AI**.
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akthakur04&show_icons=true&theme=radical)
+- 🔭 Currently building products at **ThakurTech**
+- ⚙️ Experience in **React, Next.js, FastAPI, Django, Node.js**
+- 🤖 Working with **LLMs, RAG, OpenAI, Gemini**
+- 🔗 Built **NFT platforms, ERC-20 systems, Web3 infra**
+- 🚀 Love shipping real-world, production-ready systems
 
-<h5>Languages</h5>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akthakur04&show_icons=true&locale=en&layout=compact&hide=css" alt="akthakur04" /></p>
+## 🧠 What I Work On
 
-<h5>Streaks</h5>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akthakur04&" alt="akthakur04" /></p>
+- Full Stack Product Development  
+- AI Applications (LLMs, RAG Pipelines)  
+- Web3 (Smart Contracts, NFTs, Tokenization)  
+- Scalable Microservices Architecture  
+
+---
+
+## 🏗️ My Products
+
+### 🌐 ThakurTech
+- 🔗 https://thakurntech.com  
+Building modern software products across AI, Web3, and SaaS.
+
+### 💬 Pivot
+- 🔗 https://pivot.app.thakurntech.com  
+A real-time social platform inspired by Discord + Twitter + Instagram  
+→ Live chat, feeds, communities, WebSocket infra
+
+### 📄 OCR Brief (DocuScan)
+- 🔗 https://ocr-brief.thakurntech.com  
+AI-powered document intelligence platform  
+→ OCR + classification + semantic extraction using LLMs
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+Python • JavaScript • TypeScript • Solidity  
+
+### ⚙️ Frameworks & Tools
+React • Next.js • Node.js • Django • FastAPI • Express  
+
+### 🗄️ Databases
+MongoDB • PostgreSQL • MySQL • Redis  
+
+### ☁️ DevOps & Cloud
+Docker • AWS • Azure • Git  
+
+### 🤖 AI / ML
+OpenAI • LangChain • LangGraph • RAG • Vector DBs  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akthakur04&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akthakur04" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akthakur04&layout=compact" />
+</p>
+
+---
+
+## 📈 Experience Snapshot
+
+- 🧑‍💻 **Senior Software Engineer** @ YodaPlus  
+  → Built enterprise Web3 platforms (NFTs, tokens)
+
+- 🤖 Worked on **AI Tax Platform**  
+  → Reduced manual work by 70% using LLMs
+
+- 📊 Built **data-driven applications & automation systems**
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:akshay11042000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/akthakur04/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+I don't just write code — I build **end-to-end products from idea → production**.
