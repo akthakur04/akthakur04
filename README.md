@@ -39,8 +39,8 @@ I’m a **Senior Full Stack Software Engineer** with 4+ years of experience buil
 - 🔗 https://thakurntech.com  
 Building modern software products across AI, Web3, and SaaS.
 
-### 💬 Pivot
-- 🔗 https://pivot.app.thakurntech.com  
+### 💬 Musubi
+- 🔗 https://musubi.app.thakurntech.com  
 A real-time social platform inspired by Discord + Twitter + Instagram  
 → Live chat, feeds, communities, WebSocket infra
 
